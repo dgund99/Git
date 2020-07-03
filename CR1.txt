@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+This is created in the bug fix branch ...................
+
+Update by team mate 3:12 PM
+=======
+This is created in the bug fix branch
+
+Update by bug branch 3:11 pm
+>>>>>>> 130653a... updated in bug branch for rebase conflict
